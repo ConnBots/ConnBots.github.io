@@ -13,3 +13,13 @@ These answers will then be displayed along with the clue (The name will not be p
 Status of this project is available [here] 
 
 [here]: https://github.com/users/ConnBots/projects/2/views/1
+
+## Other Information 
+
+Because github pages dosent allow the use of PHP, we use Netlify for the forms system. Im looking into buying a deticated host for this and coding a form system in PHP. 
+
+## Website: 
+
+[Official Website]
+
+[Official Website]: https://leadershipgame.netlify.app/index.html
